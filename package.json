@@ -1,0 +1,28 @@
+{
+  "name": "minimal-test-environment-jest-threejs",
+  "version": "0.1.0",
+  "description": "Minimal example for unit testing three.js with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --env=jsdom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasatoMakino/minimal-test-environment-jest-threejs.git"
+  },
+  "keywords": [
+    "jest",
+    "jsdom",
+    "three.js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasatoMakino/minimal-test-environment-jest-threejs/issues"
+  },
+  "homepage": "https://github.com/MasatoMakino/minimal-test-environment-jest-threejs#readme",
+  "devDependencies": {
+    "canvas": "^2.8.0",
+    "jest": "^27.2.0"
+  }
+}
