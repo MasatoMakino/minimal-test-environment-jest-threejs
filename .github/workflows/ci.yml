@@ -24,6 +24,8 @@ jobs:
     - uses: actions/checkout@v2
     - name: apt-get for headless-gl
       run: sudo apt-get install libxi-dev xvfb libgl1-mesa-dev
+    - name: setup display output
+      run : export DISPLAY=:99.0; sh -e /etc/init.d/xvfb start
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v2
       with:
