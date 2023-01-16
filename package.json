@@ -4,7 +4,7 @@
   "description": "Minimal example for unit testing three.js with jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest --env=jsdom"
+    "test": "jest --env=jest-environment-jsdom"
   },
   "repository": {
     "type": "git",
