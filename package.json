@@ -1,6 +1,6 @@
 {
   "name": "minimal-test-environment-jest-threejs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Minimal example for unit testing three.js with jest",
   "main": "index.js",
   "scripts": {
