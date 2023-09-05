@@ -24,8 +24,8 @@
   "devDependencies": {
     "canvas": "^2.11.0",
     "gl": "^6.0.2",
-    "jest": "^29.4.3",
-    "jest-environment-jsdom": "^29.4.3",
-    "three": "^0.149.0"
+    "jest": "^29.6.4",
+    "jest-environment-jsdom": "^29.6.4",
+    "three": "^0.156.0"
   }
 }
