@@ -23,7 +23,7 @@
   "homepage": "https://github.com/MasatoMakino/minimal-test-environment-jest-threejs#readme",
   "devDependencies": {
     "canvas": "^2.11.2",
-    "gl": "^6.0.2",
+    "gl": "^8.0.2",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.7.0",
     "three": "^0.162.0"
